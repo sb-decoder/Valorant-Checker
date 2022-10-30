@@ -1,7 +1,6 @@
 # Valorant-Checker
-
-More projects : 
-> https://github.com/Leluka11/
+Checkout More Projects : 
+[here](https://github.com/Leluka11/)
 
 Preview : 
 
